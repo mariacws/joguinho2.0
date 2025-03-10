@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af223e6b697ec8d4a83dbb9e02f3e106
+guid: dddc535cb2870af4aa7ebc8a7ed72019
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -44,7 +44,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 2
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -123,64 +123,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: titi2_0
+      name: Design sem nome (2)_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 184
-        width: 70
-        height: 51
+        x: 373
+        y: 643
+        width: 372
+        height: 134
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daa362979bd701748b4ea0e1838d70c5
-      internalID: 398204368
+      spriteID: 0eed8f949d82d74438654ad84dc0a1de
+      internalID: -1239870470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: titi2_1
+      name: Design sem nome (2)_1
       rect:
         serializedVersion: 2
-        x: 66
-        y: 0
-        width: 124
-        height: 146
+        x: 681
+        y: 521
+        width: 325
+        height: 116
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 1, y: 0, z: 1, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eed043a9629897b4e8c7d5642fb1fdbf
-      internalID: -461784812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: titi2_2
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 0
-        width: 26
-        height: 95
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe7d236ac0d69a44a91c43a9da3e711b
-      internalID: -695972984
+      spriteID: 8a2587e6a76e6aa4190eeaac6a3b3304
+      internalID: 1588524345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 667
+        width: 267
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f5cb7a64ac7248bd0bc5b32c981b9
+      internalID: -234306680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 186
+        width: 371
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439284d8b6d4314ea9b1585a8929b22
+      internalID: 229481157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 511
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bd39b3601369c43a6c321877620312
+      internalID: 1738008583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 490
+        width: 132
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ca55f3d8b8b240afa47fbd5f8c58d
+      internalID: 756298358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 335
+        width: 228
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa617d0c747a944fa40d7cf7696f462
+      internalID: 2056735155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design sem nome (2)_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 659
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d51d4a13e55945acea5ec1a8aacbb
+      internalID: -866597504
       vertices: []
       indices: 
       edges: []
@@ -196,10 +301,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      titi2_0: 398204368
-      titi2_1: -461784812
-      titi2_2: -695972984
-      titi2_3: 487202009
+      Design sem nome (2)_0: -1239870470
+      Design sem nome (2)_1: 1588524345
+      Design sem nome (2)_2: -234306680
+      Design sem nome (2)_3: 229481157
+      Design sem nome (2)_4: 1738008583
+      Design sem nome (2)_5: 756298358
+      Design sem nome (2)_6: 2056735155
+      Design sem nome (2)_7: -866597504
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
