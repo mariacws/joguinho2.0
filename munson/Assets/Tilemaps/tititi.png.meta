@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 622c886bb703e6648843a145cec4542b
+guid: c21fd2d8420f5f44090b8e3305845db4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: titi_1
+      name: tititi_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 165
-        width: 95
-        height: 85
+        x: 79
+        y: 177
+        width: 118
+        height: 139
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,41 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16df7abbe4fac0342848dfb62cacc437
-      internalID: -1252282045
+      spriteID: a8f4d674302d31b42aae585a532f66e7
+      internalID: -1619097386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: titi_2
+      name: tititi_1
       rect:
         serializedVersion: 2
-        x: 28
-        y: 127
-        width: 100
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 1, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0d411c6213977b4897587606c493675
-      internalID: -561292793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: titi_3
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 0
-        width: 268
-        height: 121
+        x: 240
+        y: 177
+        width: 133
+        height: 90
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,8 +158,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cb9fa30a86ae0c44a9c64620b31f69c
-      internalID: 768431466
+      spriteID: 53c0c9224bb2a0247bb3af61073a3dfd
+      internalID: 1776468494
       vertices: []
       indices: 
       edges: []
@@ -196,11 +175,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      titi_0: 401897725
-      titi_1: 1715584990
-      titi_2: -611018807
-      titi_3: -589918009
-      titi_4: -508045843
+      tititi_0: -1619097386
+      tititi_1: 1776468494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
